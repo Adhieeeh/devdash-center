@@ -12,3 +12,4 @@ DevDash is a high-performance, full-stack productivity grid built using Next.js 
 ##  Working Setup Instructions
 1. Setup packages: `npm install`
 2. Run local ecosystem: `npm run dev`
+--------------------------------------------------------------
