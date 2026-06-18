@@ -1,7 +1,7 @@
 #  DevDash — Advanced Developer Cockpit Sandbox (Next.js + Tailwind CSS)
 --------------------------------------------------------------------------------
 DevDash is a high-performance, full-stack productivity grid built using Next.js App Router parameters styled entirely via utility-first Tailwind CSS class directives. It maps full responsive grids, stateful CRUD dashboard utilities, and concurrent server GET routes (`/api/stats`).
-
+--------------------------------------------------------------------------------------------------------------
 ## Preview
 ![](devd.png)
 ##  Tailwind & Architecture Highlights
