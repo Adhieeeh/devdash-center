@@ -8,7 +8,7 @@ DevDash is a high-performance, full-stack productivity grid built using Next.js 
 ##  Tailwind & Architecture Highlights
 *  **Utility-First Styling Engine:** Implements advanced Tailwind responsive layouts, custom neon gradients, and interactive state modifiers directly inside markup declarations.
 *  **Server Routing Integration:** Hooks up backend API controllers alongside client state managers concurrently in a single root tree.
-
+-------------------------------------------------------
 ##  Working Setup Instructions
 1. Setup packages: `npm install`
 2. Run local ecosystem: `npm run dev`
